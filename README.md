@@ -1,1 +1,1 @@
-# GTC
+# GraphTheory
